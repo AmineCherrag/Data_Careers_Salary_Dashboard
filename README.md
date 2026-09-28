@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that explores salaries and job market trends across data careers. Filter by **job title**, **country**, and **employment type** to instantly see salary benchmarks, the top job platform, and the number of job postings.
 
-![Dashboard Preview](images/dashboard.png)
+<img width="1873" height="667" alt="Screenshot 2026-09-28 162257" src="https://github.com/user-attachments/assets/8f0ed18b-5dd1-49be-bee6-de6b34eca8cf" />
 
 ---
 
@@ -19,7 +19,7 @@ This project analyzes job posting data for data-related roles (Data Analyst, Dat
 
 - **Interactive filters** for Job Title, Country, and Employment Type
 - **Salary by job title** bar chart to compare roles side by side, with the selected role highlighted
-- **Geographic map** showing how salaries and demand vary around the world
+- **Geographic map** showing how salaries vary around the world
 - **Salary by employment type** chart (Full-time, Part-time, Contractor, Temp work, Internship)
 - **KPI cards** that update with your selection:
   - Median Salary
@@ -39,24 +39,10 @@ For **Data Engineer** roles in the **United States** (Full-time):
 ## 🛠️ Tools & Skills
 
 - **Microsoft Excel**
-- Data cleaning and preparation
 - PivotTables & PivotCharts
 - Interactive filtering (dropdowns / slicers)
 - Map charts
 - Dashboard design and KPI reporting
-
-## 📁 Repository Structure
-
-```
-├── README.md
-├── data/
-│   └── data_careers_salary.xlsx      # Dataset (update with your file name)
-├── Data_Careers_Salary_Dashboard.xlsx # Excel dashboard
-└── images/
-    └── dashboard.png                 # Dashboard screenshot
-```
-
-> Update the file names above to match your repository.
 
 ## 🚀 How to Use
 
@@ -66,15 +52,5 @@ For **Data Engineer** roles in the **United States** (Full-time):
 4. Use the **Job Title**, **Country**, and **Type** filters to explore the data.
 5. Watch the charts and KPI cards update automatically.
 
-## 📌 Data Source
-
-Add your dataset source here (e.g., Kaggle dataset name and link).
-
-## 👤 Author
-
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
-
----
 
 ⭐ If you found this project helpful, feel free to star the repo!
